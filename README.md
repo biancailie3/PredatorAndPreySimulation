@@ -6,14 +6,24 @@ A real-time simulation of predator and prey dynamics in a 2D environment. This p
 # Features
 
 Agents: Predators and Prey with individual behaviors.
+
 Movement: Agents move randomly and interact based on proximity.
+
 Predation: Predators can catch prey if close enough.
+
 Reproduction: Prey can reproduce, simulating population growth.
+
 Visualization: Real-time graphical representation using pygame.
+
 Statistics: Track and plot population changes over time.
+
+
 User Interaction:
+
 Add new predators or prey during simulation.
+
 Toggle certain simulation parameters.
+
 
 # Controls
 
